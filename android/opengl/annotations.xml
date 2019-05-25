@@ -1,0 +1,12 @@
+<root>
+    <item name='android.opengl.GLSurfaceView.ComponentSizeChooser'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+    <item
+        name='android.opengl.GLSurfaceView.GLThreadManager void threadExiting(android.opengl.GLSurfaceView.GLThread)'>
+        <annotation name='org.jetbrains.annotations.Blocking' />
+    </item>
+    <item name='android.opengl.GLSurfaceView.SimpleEGLConfigChooser'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
